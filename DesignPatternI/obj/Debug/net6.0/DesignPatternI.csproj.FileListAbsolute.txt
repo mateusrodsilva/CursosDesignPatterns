@@ -1,0 +1,15 @@
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\bin\Debug\net6.0\DesignPatternI.exe
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\bin\Debug\net6.0\DesignPatternI.deps.json
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\bin\Debug\net6.0\DesignPatternI.runtimeconfig.json
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\bin\Debug\net6.0\DesignPatternI.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\bin\Debug\net6.0\DesignPatternI.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\obj\Debug\net6.0\DesignPatternI.csproj.AssemblyReference.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\obj\Debug\net6.0\DesignPatternI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\obj\Debug\net6.0\DesignPatternI.AssemblyInfoInputs.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\obj\Debug\net6.0\DesignPatternI.AssemblyInfo.cs
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\obj\Debug\net6.0\DesignPatternI.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\obj\Debug\net6.0\DesignPatternI.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\obj\Debug\net6.0\refint\DesignPatternI.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\obj\Debug\net6.0\DesignPatternI.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\obj\Debug\net6.0\DesignPatternI.genruntimeconfig.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\CursosAlura\DesignPatternI\obj\Debug\net6.0\ref\DesignPatternI.dll
